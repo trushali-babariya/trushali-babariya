@@ -27,7 +27,7 @@ I’m passionate about finding insights through data and presenting them visuall
 ---
 
 ## 🌐 Connect with Me  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio Website](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/trushali-babariya-2b0654369/) | [Portfolio Website](https://yourwebsite.com)
 
 
 <!--
