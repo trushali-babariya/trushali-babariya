@@ -14,13 +14,6 @@ I’m passionate about finding insights through data and presenting them visuall
 
 ---
 
-## 📈 GitHub Stats  
-![Trushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trushali&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trushali&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Currently Learning  
 📊 Data Visualization | 🧩 Data Cleaning | 🧠 Storytelling with Data  
 
@@ -28,6 +21,17 @@ I’m passionate about finding insights through data and presenting them visuall
 
 ## 🌐 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/trushali-babariya-2b0654369/) | [Portfolio Website](https://yourwebsite.com)
+
+# 📜 My Certificates
+
+This repository contains all my professional course completions and achievements.
+
+| Course Name | Platform | View Certificate |
+|--------------|-----------|------------------|
+| Data Visualization | freeCodeCamp | [View PDF]() |
+| Data Visualization with Python TechVidvan | [View PDF]() |
+
+
 
 
 <!--
