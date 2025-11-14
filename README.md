@@ -28,7 +28,7 @@ I enjoy uncovering insights, simplifying complex datasets, and building dashboar
 📊 Data Visualization | 🧩 Data Cleaning | 🧠 Storytelling with Data  
 
 ---
-### My Project 
+## 📂 My Projects 
 
 ## 👜 Royal Handbags — PHP E-Commerce Website  
 
