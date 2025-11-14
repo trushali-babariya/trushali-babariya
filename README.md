@@ -38,25 +38,29 @@ This project demonstrates strong fundamentals of PHP, MySQL, Frontend UI, CRUD o
 👉 https://royalhandbag.rf.gd/
 
   ---
-  🏅 Certificates
-🎓 Data visualization with Python – IBM Cognitive Class
-🧠 Data visualization V8 – freeCodeCamp
-🔗 View all my certificates:certificates
+  
+## 🏅 Certificates  
+
+- 🎓 **Data Visualization with Python** – IBM Cognitive Class  
+- 🧠 **Data Visualization V8** – freeCodeCamp  
+- 🔗 **View all my certificates:**[Click Here](https://github.com/trushali-babariya/certificates)
 
 ---
-  
+
 ## 🔹 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" width="55%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=trushali-babariya&show_icons=true&theme=default" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact" width="40%">
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
-💼 LinkedIn: Trushali Babariya
-🐙 GitHub: @trushali-babariya
+
+- 💼 **LinkedIn:** Trushali Babariya  
+- 🐙 **GitHub:** @trushali-babariya  
+
 
 
 
