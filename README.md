@@ -47,12 +47,16 @@ This project demonstrates strong fundamentals of PHP, MySQL, Frontend UI, CRUD o
 
 ---
 
-## 🔹 GitHub Stats  
+## 🔹 GitHub Status  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trushali-babariya&show_icons=true&theme=default" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=trushali-babariya&show_icons=true&theme=tokyonight" width="60%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight" width="45%"/>
+</p>
+
 
 ---
 
