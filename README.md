@@ -47,6 +47,21 @@ This project highlights core web development skills such as:
 
   ---
   
+🌟 Power BI Projects
+
+📊 Sales Analytics Power BI Dashboard
+
+Interactive dashboard analyzing sales performance, revenue trends, and product insights using Power BI.
+
+🔗 Project Repository:
+👉 https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
+
+🖼️ Dashboard Preview:
+(![Sales Dashboard](https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard/blob/main/Dashboard_img.jpeg)
+)
+
+---
+  
 ## 🏅 Certificates  
 
 - 🎓 **Data Visualization with Python** – IBM Cognitive Class  
