@@ -46,20 +46,18 @@ This project highlights core web development skills such as:
 📂 **Source Code:** *(https://github.com/trushali-babariya/royal-handbags-ecommerce)*  
 
   ---
-  
-🌟 Power BI Projects
+ ## 📊 Power Bi Projects 
 
-📊 Sales Analytics Power BI Dashboard
+### ⭐ Sales Analytics Power BI Dashboard
+Interactive dashboard analyzing revenue, product performance, and regional trends.
 
-Interactive dashboard analyzing sales performance, revenue trends, and product insights using Power BI.
+<p align="left">
+  <img src="https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard/blob/main/Dashboard_img.jpeg" width="380">
+</p>
 
-🔗 Project Repository:
-👉 https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
-
-🖼️ Dashboard Preview:
-(![Sales Dashboard](https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard/blob/main/Dashboard_img.jpeg)
-)
-
+🔗 **Project Link:**  
+https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
+ 
 ---
   
 ## 🏅 Certificates  
