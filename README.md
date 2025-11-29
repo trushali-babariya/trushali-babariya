@@ -70,11 +70,12 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 
 ## 🔹 GitHub Status  
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trushali-babariya&show_icons=true&theme=tokyonight" width="40%">
+<p align="center">
+  <img src="https://readme-stats.cyclic.app/api?username=trushali-babariya&show_icons=true&theme=tokyonight" width="55%" />
   <br><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight" width="40%">
+  <img src="https://readme-stats.cyclic.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight" width="40%" />
 </p>
+
 
 
 
