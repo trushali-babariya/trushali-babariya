@@ -68,16 +68,6 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 
 ---
 
-## 🔹 GitHub Status  
-
-<p align="center">
-  <img src="https://i.imgur.com/SrW6t0g.png" width="90%" />
-</p>
-
-
-
-
-
 ---
 
 ## 🌐 Connect with Me  
