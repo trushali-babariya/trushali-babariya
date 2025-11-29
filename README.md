@@ -71,7 +71,7 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 ## 🔹 GitHub Status  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trushali-babariya&show_icons=true&theme=tokyonight" width="55%">
+  <img src ="https://github-readme-stats.vercel.app/api?username=trushali-babariya&show_icons=true&theme=tokyonight&cache_seconds=86400" width="40%">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight" width="40%">
 </p>
