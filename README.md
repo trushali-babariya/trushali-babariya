@@ -69,14 +69,28 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 ---
 ## 🚀 GitHub Status
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=trushali-babariya&theme=tokyonight)
+<table>
+  <tr>
+    <td align="center">
+      <h4>🔥 GitHub Streak</h4>
+      <img src="https://streak-stats.demolab.com?user=trushali-babariya&theme=tokyonight" alt="GitHub Streak">
+    </td>
+  </tr>
 
-### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight)
+  <tr>
+    <td align="center">
+      <h4>📊 Top Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight" alt="Top Languages">
+    </td>
+  </tr>
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=blue&style=flat)
+  <tr>
+    <td align="center">
+      <h4>👀 Profile Views</h4>
+      <img src="https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+    </td>
+  </tr>
+</table>
 
 ---
 
