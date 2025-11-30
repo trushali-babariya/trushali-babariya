@@ -74,16 +74,6 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 
 ---
 
-### 📊 GitHub Stats (New Working Badges)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trushali-babariya&show_icons=true&theme=radical)
-
----
-
-### 🧠 Languages Used (New Working Version)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=radical)
-
----
-
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=red&style=flat)
 
