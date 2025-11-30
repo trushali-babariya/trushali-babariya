@@ -67,6 +67,10 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 - 🔗 **View all my certificates:**[Click Here](https://github.com/trushali-babariya/certificates)
 
 ---
+GitHub Status  
+![GitHub Streak](https://streak-stats.demolab.com?user=trushali-babariya&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
