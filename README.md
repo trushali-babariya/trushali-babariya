@@ -57,6 +57,17 @@ Interactive dashboard analyzing revenue, product performance, and regional trend
 
 🔗 **Project Link:**  
 https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
+
+### ⭐ AI Impact on Future Jobs 2030 Dashboard
+<p align="left">
+  <img src="https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-/blob/main/Screenshot%20(105).png" width="380">
+</p>
+🔗 **Project Link:**  
+https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-
+
+[🎬 **Watch Demo Video:** 
+https://streamable.com/kdzjq7
+
  
 ---
   
