@@ -82,14 +82,6 @@ https://streamable.com/kdzjq7
 - 🔗 **View all my certificates:**[Click Here](https://github.com/trushali-babariya/certificates)
   
 ---
-## 🚀 GitHub Status
-
-### 🔥 Contribution Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=trushali-babariya&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 👀 Profile Views  
 <p align="center">
