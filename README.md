@@ -80,17 +80,21 @@ https://streamable.com/kdzjq7
 - 🎓 **Data Visualization with Python** – IBM Cognitive Class  
 - 🧠 **Data Visualization V8** – freeCodeCamp  
 - 🔗 **View all my certificates:**[Click Here](https://github.com/trushali-babariya/certificates)
-
+  
 ---
 ## 🚀 GitHub Status
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=trushali-babariya&theme=radical&hide_border=false)
+### 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=trushali-babariya&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=red&style=flat)
+### 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=red&style=flat" alt="Profile Views"/>
+</p>
 
 
 ---
