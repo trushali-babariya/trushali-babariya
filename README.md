@@ -57,6 +57,7 @@ Interactive dashboard analyzing revenue, product performance, and regional trend
 
 🔗 **Project Link:**  
 https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
+
 🎬 **Watch Demo Video:** 
 https://streamable.com/rvqusf
 
@@ -66,6 +67,7 @@ https://streamable.com/rvqusf
 </p>
 🔗 **Project Link:**  
 https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-
+
 🎬 **Watch Demo Video:** 
 https://streamable.com/kdzjq7
 
