@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trushali  
 
-🎯  Aspiring Data Analyst | BCA Student | Excel • SQL • Power BI | Learning Google Data Analytics | Data Visualization Enthusiast
+🎯   Aspiring Data Analyst & Data Scientist | BCA Student | Excel • SQL • Python • Power BI | Data Visualization | Google Data Analytics Learner
 
 I’m passionate about finding insights through data and presenting them visually for better decision-making.  
 
@@ -65,6 +65,7 @@ https://streamable.com/rvqusf
 <p align="left">
   <img src="https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-/blob/main/Screenshot%20(105).png" width="380">
 </p>
+
 🔗 **Project Link:**  
 https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-
 
