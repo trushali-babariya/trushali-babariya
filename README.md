@@ -62,6 +62,7 @@ https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard
 https://streamable.com/rvqusf
 
 ### ⭐ AI Impact on Future Jobs 2030 Dashboard
+Understanding which jobs are at risk and which will be empowered by AI by 2030.
 <p align="left">
   <img src="https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-/blob/main/Screenshot%20(105).png" width="380">
 </p>
