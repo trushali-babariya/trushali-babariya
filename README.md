@@ -75,7 +75,22 @@ https://streamable.com/kdzjq7
 
  
 ---
-  
+## 📊 Tableau Projects
+
+### ⭐ Stakeholder Performance Analysis Dashboard
+Interactive dashboard for analyzing stakeholder and financial performance using data-driven insights.
+<p align="left">
+  <img src="https://github.com/trushali-babariya/stakeholder-performance-analysis-dashboard/blob/main/image.png" width="380">
+</p>
+
+🔗 **Project Link:**  
+https://github.com/trushali-babariya/stakeholder-performance-analysis-dashboard
+
+🎬 **Watch Demo Video:** 
+https://streamable.com/omgi34
+
+---
+
 ## 🏅 Certificates  
 
 - 🎓 **Data Visualization with Python** – IBM Cognitive Class  
