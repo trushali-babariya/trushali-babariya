@@ -99,6 +99,13 @@ https://streamable.com/omgi34
   
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+ <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=trushali-babariya&show_icons=true&theme=radical&hide_border=true"/>
+ <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=trushali-babariya&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
 ### 👀 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trushali-babariya&label=Profile%20Views&color=red&style=flat" alt="Profile Views"/>
