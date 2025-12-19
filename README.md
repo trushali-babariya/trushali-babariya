@@ -52,7 +52,7 @@ This project highlights core web development skills such as:
 Interactive dashboard analyzing revenue, product performance, and regional trends.
 
 <p align="left">
-  <img src="https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard/blob/main/Dashboard_img.jpeg" width="380">
+  <img src="https://github.com/trushali-babariya/Sales-Analytics-PowerBi-Dashboard/blob/main/Dashboard_img.jpeg" width="600">
 </p>
 
 🔗 **Project Link:**  
@@ -64,7 +64,7 @@ https://streamable.com/rvqusf
 ### ⭐ AI Impact on Future Jobs 2030 Dashboard
 Understanding which jobs are at risk and which will be empowered by AI by 2030.
 <p align="left">
-  <img src="https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-/blob/main/Screenshot%20(105).png" width="380">
+  <img src="https://github.com/trushali-babariya/AI-Impact-on-Future-Jobs-2030-/blob/main/Screenshot%20(105).png" width="600">
 </p>
 
 🔗 **Project Link:**  
@@ -80,7 +80,7 @@ https://streamable.com/kdzjq7
 ### ⭐ Stakeholder Performance Analysis Dashboard
 Interactive dashboard for analyzing stakeholder and financial performance using data-driven insights.
 <p align="left">
-  <img src="https://github.com/trushali-babariya/stakeholder-performance-analysis-dashboard/blob/main/image.png" width="380">
+  <img src="https://github.com/trushali-babariya/stakeholder-performance-analysis-dashboard/blob/main/image.png" width="600">
 </p>
 
 🔗 **Project Link:**  
