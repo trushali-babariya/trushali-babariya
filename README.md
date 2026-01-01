@@ -46,6 +46,15 @@ This project highlights core web development skills such as:
 📂 **Source Code:** *(https://github.com/trushali-babariya/royal-handbags-ecommerce)*  
 
   ---
+  ## 📱 Smartphone Usage Analysis (Python Project)
+  
+A Python-based data analysis project exploring smartphone usage patterns through EDA and visual insights.  
+Focuses on screen time trends, activity comparisons, and correlation analysis using real-world style data.  
+Highlights hands-on experience with data cleaning, analysis, and visualization using Python.
+
+📂 **Source Code:** *(https://github.com/trushali-babariya/Smartphone-Usage-Analysis)*  
+  
+  ---
  ## 📊 Power Bi Projects 
 
 ### ⭐ Sales Analytics Power BI Dashboard
