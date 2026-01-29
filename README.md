@@ -69,7 +69,7 @@ Key highlights:
 
 🏛 Source: data.gov.in (Government of India Open Data Portal)
 
-#🚀 Live Deployment:
+**🚀 Live Deployment:**
 
 🌐 **Streamlit App:** 👉 (https://traffic-accident-severity-prediction-uozmlvusfadzftjz8h64vx.streamlit.app/)
 
