@@ -47,36 +47,35 @@ This project highlights core web development skills such as:
 
 ---
   
-##🚦 Royal Handbags — PHP E-Commerce Website Traffic Accident Data Analysis (India) — Data Science & ML Project
+## 🚦 Traffic Accident Data Analysis (India) — Data Science & ML Project
 
 A comprehensive Data Science & Machine Learning project analyzing Indian road traffic accident data to identify high-risk regions and accident patterns.
 
 This project is built using official Government of India data (data.gov.in) for the year 2022 and focuses on extracting actionable insights to support data-driven road safety decisions.
 
-=> Key highlights:
+Key highlights:
 
-Data cleaning & preprocessing of real-world government data
+- Data cleaning & preprocessing of real-world government data
 
-Exploratory Data Analysis (EDA) across States, UTs, and Cities
+- Exploratory Data Analysis (EDA) across States, UTs, and Cities
 
-Feature engineering for risk identification
+- Feature engineering for risk identification
 
-Machine Learning model (Random Forest) for high-risk region classification
+- Machine Learning model (Random Forest) for high-risk region classification
 
-Interactive web app built using Streamlit
-
+- Interactive web app built using Streamlit
+  
 🗂 Dataset: Road Accident Statistics of India (2022)
 🏛 Source: data.gov.in (Government of India Open Data Portal)
 
 🚀 Live Deployment:
 
-🌐 Streamlit App: 👉 https://traffic-accident-severity-prediction-uozmlvusfadzftjz8h64vx.streamlit.app/
+🌐 Streamlit App: 👉 (https://traffic-accident-severity-prediction-uozmlvusfadzftjz8h64vx.streamlit.app/)
 
-🤗 Hugging Face Space: 👉 https://huggingface.co/spaces/trushali-babariya/traffic-accident-severity-prediction
+🤗 Hugging Face Space: 👉 (https://huggingface.co/spaces/trushali-babariya/traffic-accident-severity-prediction)
 
 📂 Source Code:
 https://github.com/trushali-babariya/Traffic-Accident-Data-Analysis
-
 ---
   
   ## 📱 Smartphone Usage Analysis (Python Project)
