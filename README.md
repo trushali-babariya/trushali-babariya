@@ -66,6 +66,7 @@ Key highlights:
 - Interactive web app built using Streamlit
   
 🗂 Dataset: Road Accident Statistics of India (2022)
+
 🏛 Source: data.gov.in (Government of India Open Data Portal)
 
 🚀 Live Deployment:
@@ -76,6 +77,7 @@ Key highlights:
 
 📂 Source Code:
 https://github.com/trushali-babariya/Traffic-Accident-Data-Analysis
+
 ---
   
   ## 📱 Smartphone Usage Analysis (Python Project)
