@@ -47,7 +47,7 @@ This project highlights core web development skills such as:
 
 ---
   
-## 🚦 Traffic Accident Data Analysis (India) — Data Science & ML Project
+## 🚦 Traffic Accident Severity Analysis (India) — Data Science & ML Project
 
 A comprehensive Data Science & Machine Learning project analyzing Indian road traffic accident data to identify high-risk regions and accident patterns.
 
