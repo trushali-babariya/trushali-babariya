@@ -71,12 +71,12 @@ Key highlights:
 
 🚀 Live Deployment:
 
-🌐 Streamlit App: 👉 (https://traffic-accident-severity-prediction-uozmlvusfadzftjz8h64vx.streamlit.app/)
+🌐 **Streamlit App:** 👉 (https://traffic-accident-severity-prediction-uozmlvusfadzftjz8h64vx.streamlit.app/)
 
-🤗 Hugging Face Space: 👉 (https://huggingface.co/spaces/trushali-babariya/traffic-accident-severity-prediction)
+🤗 **Hugging Face Space:** 👉 (https://huggingface.co/spaces/trushali-babariya/traffic-accident-severity-prediction)
 
-📂 Source Code:
-https://github.com/trushali-babariya/Traffic-Accident-Data-Analysis
+📂 **Source Code:** 👉 (https://github.com/trushali-babariya/traffic-accident-severity-prediction)
+
 
 ---
   
