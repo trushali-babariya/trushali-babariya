@@ -160,7 +160,9 @@ https://streamable.com/omgi34
 ## 🌐 Connect with Me  
 
 - 💼 **LinkedIn:** Trushali Babariya  
-- 🐙 **GitHub:** @trushali-babariya  
+- 🐙 **GitHub:** @trushali-babariya
+- 🤗 **Hugging Face**: [trushali-babariya](https://huggingface.co/trushali-babariya)
+- 🚀 **Streamlit App**: [Traffic Accident Severity Prediction](https://share.streamlit.io/user/trushali-babariya)
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
 
