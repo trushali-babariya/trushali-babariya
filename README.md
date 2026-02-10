@@ -25,7 +25,10 @@ I enjoy uncovering insights, simplifying complex datasets, and building dashboar
 ---
 
 ## 🚀 Currently Learning  
-📊 Data Visualization | 🧩 Data Cleaning | 🧠 Storytelling with Data  
+Data Science Internship  
+• Data preprocessing & analysis  
+• Machine Learning & Deep Learning concepts  
+• Model building and evaluation
 
 ---
 ## 📂 My Projects 
