@@ -80,6 +80,10 @@ Key highlights:
 
 📂 **Source Code:** 👉 (https://github.com/trushali-babariya/traffic-accident-severity-prediction)
 
+## 📸 Project Preview  
+
+![App Screenshot](images/app_preview.png)
+
 
 ---
   
