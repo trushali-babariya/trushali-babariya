@@ -83,7 +83,7 @@ Key highlights:
 ## 📸 DashBoard Preview  
 
 <p align="left">
-  <img src="https://github.com/trushali-babariya/Traffic-Accident-Analysis-Dashboard-India/blob/main/image1.png" width="600">
+  <img src="https://github.com/trushali-babariya/Traffic-Accident-Analysis-Dashboard-India/blob/main/images.png" width="600">
 </p>
 
 🔗 **Project Link:**  
