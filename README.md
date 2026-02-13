@@ -80,9 +80,14 @@ Key highlights:
 
 📂 **Source Code:** 👉 (https://github.com/trushali-babariya/traffic-accident-severity-prediction)
 
-## 📸 Project Preview  
+## 📸 DashBoard Preview  
 
-![App Screenshot](images/app_preview.png)
+<p align="left">
+  <img src="https://github.com/trushali-babariya/Traffic-Accident-Analysis-Dashboard-India/blob/main/image1.png" width="600">
+</p>
+
+🔗 **Project Link:**  
+https://github.com/trushali-babariya/Traffic-Accident-Analysis-Dashboard-India
 
 
 ---
