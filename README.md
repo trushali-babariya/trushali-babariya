@@ -148,9 +148,11 @@ https://streamable.com/omgi34
 
 ## 🏅 Certificates  
 
+- 🎓 **Data Science & AI** – Sparks To Ideas
+- 🧠 **Data Analysis With Python** – freeCodeCamp
 - 🎓 **Data Visualization with Python** – IBM Cognitive Class  
 - 🧠 **Data Visualization V8** – freeCodeCamp
-- 🎓 **Data Science & AI** – Sparks To Ideas   
+  
 - 🔗 **View all my certificates:**[Click Here](https://github.com/trushali-babariya/certificates)
   
 ---
